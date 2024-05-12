@@ -7,13 +7,12 @@
 <a href="#"><img title="Siesta Natsugani" src="https://img.shields.io/badge/Siesta Natsugani-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/SatzzDev/followers"><img title="Followers" src="https://img.shields.io/github/followers/riychdwayne?color=red&style=flat-square"></a>
-<a href="https://github.com/SatzzDev/SIESTA---MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SatganzDevz/SIESTA---MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SatzzDev/SIESTA---MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SatganzDevz/SIESTA---MD?color=red&style=flat-square"></a>
-<a href="https://github.com/SatzzDev/SIESTA---MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SatganzDevz/SIESTA---MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/SatzzDev/SIESTA---MD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/SatzzDev/SIESTA---MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SatganzDevz/SIESTA---MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friychdwayne%2FSIESTA---MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/SatzzDev/followers"><img title="Followers" src="https://img.shields.io/github/followers/SatzzDev?color=pink&style=flat-square"></a>
+<a href="https://github.com/SatzzDev/SIESTA---MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SatzzDev/SIESTA---MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Satzzdev/SIESTA---MD/"><img title="Created At" src="https://img.shields.io/github/created-at/SatzzDev/SIESTA---MD"></a>
+<a href="https://github.com/SatzzDev/SIESTA---MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SatzzDev/SIESTA---MD?color=black&style=flat-square"></a>
+<a href="https://github.com/SatzzDev/SIESTA---MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SatzzDev/SIESTA---MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SatzzDev/SIESTA---MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SatzzDev/SIESTA---MD?style=flat-square&color=green"></a>
 <a href="https://github.com/SatzzDev/SIESTA---MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
@@ -44,8 +43,7 @@ apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
 git clone https://github.com/SatzzDev/SIESTA---MD.git
 cd SIESTA---MD
-pkg install yarn
-yarn
+npm install
 npm start
 ```
 
