@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images7.alphacoders.com/126/1264830.jpg" alt="SIESTA---MD"/>
+<img src="https://images7.alphacoders.com/126/1264830.jpg" alt="SIESTA---MD" width=200/>
 
 
 </p>
