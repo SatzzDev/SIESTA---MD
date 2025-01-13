@@ -1,0 +1,6 @@
+{
+  "ignore": ["plugins/*"],
+  "ext": "js",
+  "watch": ["."],
+  "exec": "node index.js"
+}
